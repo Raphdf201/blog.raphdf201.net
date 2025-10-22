@@ -2,11 +2,11 @@
 layout: post
 title: "Site opening"
 date: 2025-10-22 16:56:37 -0400
-categories: announcement
+categories: announcements
 ---
 Site opened on 22 october
 
-Original port edit :
+#### Approximately original post :
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `bundle exec jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
