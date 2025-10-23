@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Site rename"
-date: 2025-10-23 12:0:0 -0400
+date: 2025-10-23 12:00:00 -0400
 categories: announcements
 ---
 ## Rename
